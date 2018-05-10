@@ -5,8 +5,8 @@ This github repository contains code and data for our project.
 
 ## Code
 ### SemRep WebAPI
-The Java-based API used to run SemRep can be downloaded and installed [here] (https://ii.nlm.nih.gov/Web_API/index.shtml)
-Note that access to this tool requires a [UMLS Terminology Services (UTS) account] (https://uts.nlm.nih.gov/home.html)
+The Java-based API used to run SemRep can be downloaded and installed [here](https://ii.nlm.nih.gov/Web_API/index.shtml)
+Note that access to this tool requires a [UMLS Terminology Services (UTS) account](https://uts.nlm.nih.gov/home.html)
 
 ### Scripts
 #### preprocess_clintrials.py and preprocess_textbook.py
@@ -42,12 +42,12 @@ This file contains SemRep and MetaMap evaluation results
 The different worksheets contain the following information:
 1. PubMed MetaMap Matches, NCT MetaMap Matches, and Textbook MetaMap Matches: which parts of the gold standard concepts were mapped by MetaMap (shown bolded)
 2. MetaMap Comparison:
-	a) summary statistics for MetaMap matchings of gold standard concepts (from PubMed MetaMap Matches, NCT MetaMap Matches, and Textbook MetaMap Matches)
-	b) summary statistics for accuracy of MetaMap output (data from metamap_output folder)
+  * Summary statistics for MetaMap matchings of gold standard concepts (from PubMed MetaMap Matches, NCT MetaMap Matches, and Textbook MetaMap Matches)
+  * Summary statistics for accuracy of MetaMap output (data from metamap_output folder)
 3. SemRep Internal Eval: assign automated SemRep triples to one of the following
-	(i) true and useful (T+)
-	(ii) true but not useful (T-)
-	(iii) false (F)
+  * True and useful (T+)
+  * True but not useful (T-)
+  * False (F)
 4. SemRep Comparison: summary statistics for SemRep vs. gold standard (used to calculate precision and recall)
 
 #### semmeddb_combined_triples, clintrials_combined_triples.csv, textbook_combined_triples.csv
