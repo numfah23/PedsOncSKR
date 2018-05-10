@@ -1,0 +1,21 @@
+﻿Source,Subject,Predicate,Object
+Ideal,Pathologic feature,COEXISTS_WITH,Clinical attribute
+Ideal,Clinical attribute,COEXISTS_WITH,Finding
+Ideal,Finding,COEXISTS_WITH,Molecular feature
+Ideal,Pathologic feature,COEXISTS_WITH,Finding
+Ideal,Pathologic feature,COEXISTS_WITH,Molecular feature
+Ideal,Clinical attribute,COEXISTS_WITH,Molecular feature
+Ideal,Pathologic feature,IMPLIES_RISK_GROUP,Risk group
+Ideal,Clinical attribute,IMPLIES_RISK_GROUP,Risk group
+Ideal,Finding,IMPLIES_RISK_GROUP,Risk group
+Ideal,Molecular feature,IMPLIES_RISK_GROUP,Risk group
+Ideal,Pharmacologic Substance or Therapeutic Procedure,TREATS,Risk group
+Ideal,Pharmacologic Substance or Therapeutic Procedure,TARGETS,Molecular feature
+Ideal,Pharmacologic Substance or Therapeutic Procedure,TARGETS,Pathologic feature
+Ideal,Pharmacologic Substance or Therapeutic Procedure,TREATS,Disease
+Ideal,Pathologic feature,PART_OF,Disease
+Ideal,Clinical attribute,PART_OF,Disease
+Ideal,Finding,PART_OF,Disease
+Ideal,Molecular feature,PART_OF,Disease
+Ideal,Pharmacologic Substance or Therapeutic Procedure,PART_OF,Clinical Trial
+Ideal,Risk group,OCCURS_IN,Disease

@@ -1,0 +1,69 @@
+# commands for getting semrep triple
+# 1. remove non ascii chars
+# 2. run semrep (compile if changes were made)
+# 3. triple extraction part 1: keep rows with "relation"
+# 4. triple extraction part 2: run py script to get triples
+
+# prior to running the code in this file, split data file using preprocess_clintrials.py 
+	# and preprocess_textbook.py into separate text files
+# for each part, code is included to run on 2 types of data sources
+# all parts involve pasting blocks of code into terminal
+
+
+#######################################################################################
+# 1 .remove non ascii chars (in data directory)
+# files must be named ct0-ct315 and tb0-tb13
+
+# for 316 clin trials
+for ((a=0; a <= 315 ; a++))
+do
+	perl -pi -e 's/[^[:ascii:]]//g' ct$a.txt
+done
+
+# for 14 tb sections
+for ((a=0; a <= 13 ; a++))
+do
+	perl -pi -e 's/[^[:ascii:]]//g' tb$a.txt
+done
+
+#######################################################################################
+# compile java program if changes are made
+../compile.sh GenericBatchUser.java
+
+#######################################################################################
+# run semrep
+
+# for 316 clin trials
+for ((a=0; a <= 315; a++))
+do
+	../run.sh GenericBatchUser --email nv2317@columbia.edu --command semrep ct_data/ct$a.txt > sr_ct_out/sr_ct_output$a.txt
+done
+
+# for 14 tb sections
+for ((a=0; a <= 13; a++))
+do
+	../run.sh GenericBatchUser --email nv2317@columbia.edu --command semrep tb_data/tb$a.txt > sr_tb_out/sr_tb_output$a.txt
+done
+
+# testing output format -F
+../run.sh GenericBatchUser --email nv2317@cumc.columbia.edu --command semrep -F ct_data/ct1.txt > sr_ct_out/sr_ct_F_output1.txt
+
+#######################################################################################
+# keep rows with relation
+
+# for 316 clin trials
+for ((a=0; a <= 315 ; a++))
+do
+	grep -E 'relation' sr_ct_out/sr_ct_output$a.txt > sr_ct_rels/output_rels$a.txt
+done
+
+# for 14 tb sections
+for ((a=0; a <= 13 ; a++))
+do
+	grep -E 'relation' sr_tb_out/sr_tb_output$a.txt > sr_tb_rels/output_tb_rels$a.txt
+done
+
+#######################################################################################
+# run py file to extract triples
+# edit inside py
+python get_triples.py

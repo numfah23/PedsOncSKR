@@ -1,0 +1,557 @@
+Section,Subject,Predicate,Object
+Introduction,Therapeutic procedure,TREATS,"Leukemia, Lymphocytic, Acute, L1"
+Introduction,Therapeutic procedure,TREATS,Patients
+Introduction,Therapeutic procedure,TREATS,"Leukemia, Lymphocytic, Acute"
+Epidemiology,Spontaneous abortion,PROCESS_OF,Child
+Epidemiology,Malignant Neoplasms,PROCESS_OF,Child
+Epidemiology,"Leukemia, Myelocytic, Acute",PROCESS_OF,Boys
+Epidemiology,Immunophenotyping,USES,Therapeutic procedure
+Epidemiology,Hispanics,ISA,Ethnic group
+Epidemiology,Prognosis bad,PROCESS_OF,European American
+Epidemiology,Malignant Childhood Neoplasm,OCCURS_IN,African American
+Epidemiology,Malignant Childhood Neoplasm,OCCURS_IN,European American
+Epidemiology,Malignant Childhood Neoplasm,PROCESS_OF,Boys
+Epidemiology,Maternal history,PROCESS_OF,Child
+Epidemiology,High weight,PROCESS_OF,Child
+Genetics,Chromosome Fragility,COEXISTS_WITH,Autosome Disorders
+Genetics,Down Syndrome,PROCESS_OF,Child
+Genetics,Genes,AFFECTS,Transcriptional Regulation
+Genetics,leukemia,OCCURS_IN,Monozygotic twins
+Genetics,Patients,USES,Subtype
+Genetics,methotrexate polyglutamate,AFFECTS,response
+Genetics,Germ-Line Mutation,PROCESS_OF,Child
+Genetics,Ataxia Telangiectasia,PROCESS_OF,Child
+Genetics,Fanconi's Anemia,PROCESS_OF,Patients
+Genetics,"Leukemia, Myelocytic, Acute",PROCESS_OF,Patients
+Genetics,leukemia,PROCESS_OF,sibling
+Genetics,TP53 gene,ASSOCIATED_WITH,Li-Fraumeni Syndrome
+Genetics,Li-Fraumeni Syndrome,COEXISTS_WITH,Malignant Neoplasms
+Genetics,Hematopoiesis,AFFECTS,Predisposition
+Genetics,TRANSCRIPTION FACTOR,STIMULATES,Genes
+Genetics,Clone Cells,LOCATION_OF,clonality
+Genetics,Clone Cells,PART_OF,Recombinants
+Genetics,leukemia,NEG_PROCESS_OF,Child
+Genetics,Chromosomal translocation,PROCESS_OF,"Infant, Newborn"
+Genetics,Heel stick,AFFECTS,Leukemogenesis
+Genetics,Disease,PREDISPOSES,leukemia
+Genetics,leukemia,OCCURS_IN,Monozygotic twins
+Genetics,leukemia,PROCESS_OF,Child
+Genetics,leukemia,PROCESS_OF,Family
+Genetics,Cord blood specimen,LOCATION_OF,"RNA, Messenger"
+Genetics,Leukemogenesis,AFFECTS,Disease
+Genetics,Acute leukemia,PROCESS_OF,Monozygotic twins
+Pathogenesis,"Lymphoma, Non-Hodgkin's",ISA,Malignant Neoplasms
+Pathogenesis,"Leukemia, Myelocytic, Acute",PROCESS_OF,Adult
+Pathogenesis,leukemia,OCCURS_IN,Survivors
+Pathogenesis,leukemia,OCCURS_IN,Adult
+Pathogenesis,"Leukemia, Myelocytic, Acute",OCCURS_IN,Adult
+Pathogenesis,leukemia,NEG_OCCURS_IN,Child
+Pathogenesis,leukemia,PROCESS_OF,Child
+Pathogenesis,Organ,LOCATION_OF,Toxic effect
+Pathogenesis,Imaging problem,PREDISPOSES,leukemia
+Pathogenesis,leukemia,PROCESS_OF,Human
+Pathogenesis,Virus Diseases,COEXISTS_WITH,Pathogenesis
+Pathogenesis,Infection,PROCESS_OF,Individual
+Pathogenesis,Malignant Neoplasms,AFFECTS,"Herpesvirus 4, Human"
+Pathogenesis,T-Lymphocyte,PART_OF,Adult
+Pathogenesis,Acquired Immunodeficiency Syndrome,PROCESS_OF,Patients
+Pathogenesis,Malignant Neoplasms,COEXISTS_WITH,HIV Infections
+Pathogenesis,Therapeutic procedure,ADMINISTERED_TO,Patients
+Pathogenesis,Therapeutic procedure,USES,Pharmaceutical Preparations
+Pathogenesis,Congenital immunodeficiency disease,PROCESS_OF,Child
+Pathogenesis,Congenital hypogammaglobulinemia,PREDISPOSES,Malignant lymphoid neoplasm
+Pathogenesis,Immunoglobulins,PART_OF,Patients
+Pathogenesis,Serum,LOCATION_OF,Immunoglobulins
+Pathogenesis,leukemia,ISA,Disease
+Pathogenesis,Therapeutic procedure,AFFECTS,leukemia
+Pathogenesis,Complication,AFFECTS,Leukemogenesis
+Pathogenesis,Cells,PART_OF,Child
+Pathogenesis,Malignant transformation,CAUSES,Malignant lymphoid neoplasm
+Pathogenesis,Chromosomal translocation,COEXISTS_WITH,"Leukemia, B-Cell, Acute"
+Pathogenesis,clonality,DIAGNOSES,"Leukemia, B-Cell, Acute"
+Pathogenesis,Leukemic Cell,LOCATION_OF,Immunoglobulin Heavy Chains
+Pathogenesis,Leukemic Cell,LOCATION_OF,T-Cell Receptor
+Pathogenesis,Neoplasm,PROCESS_OF,Mus
+Pathogenesis,6-Mercaptopurine,DISRUPTS,Leukemic Cell
+Pathogenesis,Clone,PART_OF,Dysmyelopoietic Syndromes
+Classification of ALL,"Leukemia, B-Cell, Acute",ISA,Lymphoma
+Classification of ALL,Cytoplasm,PART_OF,lymphoblast
+Classification of ALL,size,LOCATION_OF,Cells
+Classification of ALL,Cytoplasmic,LOCATION_OF,Basophilia
+Classification of ALL,Monoclonal Antibodies,COEXISTS_WITH,Enzymes
+Classification of ALL,Immunophenotyping,ISA,Diagnosis
+Classification of ALL,Monoclonal Antibodies,INTERACTS_WITH,Antigens
+Classification of ALL,"Leukemia, B-Cell, Acute",PROCESS_OF,Research Personnel
+Classification of ALL,leukemia,PRODUCES,Antigens
+Classification of ALL,ALANINE AMINOPEPTIDASE,ISA,Antigens
+Classification of ALL,ALANINE AMINOPEPTIDASE,ASSOCIATED_WITH,"Leukemia, B-Cell, Acute"
+Classification of ALL,MPO gene,ASSOCIATED_WITH,"Leukemia, B-Cell, Acute"
+Classification of ALL,"Interleukin 2 Receptor, Alpha",PRODUCES,ALANINE AMINOPEPTIDASE
+Classification of ALL,Antigens,PART_OF,Mature B-Lymphocyte
+Molecular Genetics of ALL,"Genetics, Molecular",ISA,Biology
+Molecular Genetics of ALL,Mutation,AFFECTS,Signal Pathways
+Molecular Genetics of ALL,Phosphotransferases,ISA,Proteins
+Molecular Genetics of ALL,Phosphotransferases,PART_OF(SPEC),Proto-Oncogenes
+Molecular Genetics of ALL,Proteins,ISA,Phosphotransferases
+Molecular Genetics of ALL,Proteins,PART_OF,Proto-Oncogenes
+Molecular Genetics of ALL,TRANSCRIPTION FACTOR,AFFECTS,Leukemogenesis
+Molecular Genetics of ALL,Comparative Genomic Hybridization,DIAGNOSES,Loss of Heterozygosity
+Molecular Genetics of ALL,genome sequencing,USES,Tool
+Molecular Genetics of ALL,Blast Cell,PART_OF,Bone Marrow
+Molecular Genetics of ALL,"Chromosomes, Human, Pair 4",LOCATION_OF,Trisomy
+Molecular Genetics of ALL,Hyperploidy,COEXISTS_WITH,Trisomy
+Molecular Genetics of ALL,"Leukemia, B-Cell, Acute",PART_OF,Patients
+Molecular Genetics of ALL,Chromosome abnormality,COEXISTS_WITH,"Leukemia, Myelocytic, Acute"
+Molecular Genetics of ALL,"Chromosomes, Human, Pair 8",PART_OF,lymphoblast
+Molecular Genetics of ALL,c-myc Genes,AFFECTS,Cell Growth
+Molecular Genetics of ALL,Cells,LOCATION_OF,"Leukemia, B-Cell, Acute"
+Molecular Genetics of ALL,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
+Molecular Genetics of ALL,lymphoblast,LOCATION_OF,Trisomy 8
+Molecular Genetics of ALL,Neoplasm,PROCESS_OF,Patients
+Molecular Genetics of ALL,TP53 gene,TREATS,Malignant Neoplasms
+Molecular Genetics of ALL,Fusion Protein,INTERACTS_WITH,Carcinogens
+Molecular Genetics of ALL,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
+Molecular Genetics of ALL,Polymerase Chain Reaction,DIAGNOSES,"Leukemia, B-Cell, Acute"
+Molecular Genetics of ALL,TRANSCRIPTION FACTOR,COEXISTS_WITH,Fusion Protein
+Molecular Genetics of ALL,Clone,PART_OF,Dysmyelopoietic Syndromes
+Molecular Genetics of ALL,Cells,LOCATION_OF,TRANSCRIPTION FACTOR
+Molecular Genetics of ALL,Hypercalcemia,PREDISPOSES,Disseminated Intravascular Coagulation
+Molecular Genetics of ALL,MYC gene,PART_OF,"Chromosomes, Human, Pair 8"
+Molecular Genetics of ALL,Cells,LOCATION_OF,"Leukemia, B-Cell, Acute"
+Molecular Genetics of ALL,"Leukemia, B-Cell, Acute",OCCURS_IN,Burkitt Lymphoma
+Molecular Genetics of ALL,Chromosomal translocation,COEXISTS_WITH,"Leukemia, B-Cell, Acute"
+Molecular Genetics of ALL,leukemia,PROCESS_OF,Infant
+Molecular Genetics of ALL,leukemia,PROCESS_OF,Patients
+Molecular Genetics of ALL,MLL gene,ASSOCIATED_WITH,"Leukemia, Myelocytic, Acute"
+Molecular Genetics of ALL,MLL gene,PART_OF,chromosome 11q23
+Molecular Genetics of ALL,Topoisomerase-II Inhibitor,INTERACTS_WITH,MLL gene
+Molecular Genetics of ALL,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
+Molecular Genetics of ALL,Leukocytes,PART_OF,Patients
+Molecular Genetics of ALL,CNS metastases,PROCESS_OF,Patients
+Molecular Genetics of ALL,"Chromosomes, Human, Pair 22",LOCATION_OF,BCR gene
+Molecular Genetics of ALL,"Chromosomes, Human, Pair 9",LOCATION_OF,tyrosine kinase ABL1
+Molecular Genetics of ALL,Fusion Protein,STIMULATES,tyrosine kinase ABL1
+Molecular Genetics of ALL,Hematopoietic precursor cell,LOCATION_OF,Fusion Protein
+Molecular Genetics of ALL,IGH@ gene cluster,ASSOCIATED_WITH,Chromosomal translocation
+Molecular Genetics of ALL,Chromosomal translocation,PROCESS_OF,Patients
+Molecular Genetics of ALL,Prognosis bad,PROCESS_OF,Patients
+Molecular Genetics of ALL,Bone Marrow,LOCATION_OF,Hypereosinophilia
+Molecular Genetics of ALL,Tumor Suppressor Genes,ASSOCIATED_WITH,DELETION
+Molecular Genetics of ALL,CDKN2A gene,ASSOCIATED_WITH,DELETION
+Molecular Genetics of ALL,CDKN2B gene,ASSOCIATED_WITH,DELETION
+Molecular Genetics of ALL,Leukocytes,PART_OF,Patients
+Molecular Genetics of ALL,Genes,AFFECTS,B-Lymphocytes
+Molecular Genetics of ALL,Lesion,PROCESS_OF,Drivers of Vehicles
+Molecular Genetics of ALL,Gene Expression Profiling,USES,Molecular Profiling
+Molecular Genetics of ALL,Mutation,AFFECTS,Interleukin 7 Receptor
+Molecular Genetics of ALL,"Receptors, Cytokine",AFFECTS,B Cell Proliferation
+Molecular Genetics of ALL,"FRAP1 protein, human",AUGMENTS,Signal Pathways
+Molecular Genetics of ALL,Down Syndrome,PROCESS_OF,Patients
+Molecular Genetics of ALL,Myeloproliferative disease,ISA,Polycythemia Vera
+Molecular Genetics of ALL,Polycythemia Vera,ISA,Myeloproliferative disease
+Molecular Genetics of ALL,Latinos,ISA,Ethnic group
+Molecular Genetics of ALL,Pseudoautosomal Region,PART_OF,Sex Chromosomes
+Molecular Genetics of ALL,"Leukemia, Myelocytic, Acute",ISA,Disease
+Molecular Genetics of ALL,FLT3 gene,INTERACTS_WITH,MLL gene
+Molecular Genetics of ALL,small molecule,INHIBITS,FLT3 gene
+Molecular Genetics of ALL,Therapeutic agent (substance),TREATS,leukemia
+Molecular Genetics of ALL,Chromosomal Rearrangement,COEXISTS_WITH,"Leukemia, B-Cell, Acute"
+Molecular Genetics of ALL,Transcription factor genes,ASSOCIATED_WITH,Chromosomal translocation
+Molecular Genetics of ALL,integral to membrane,AFFECTS,cell fate determination
+Molecular Genetics of ALL,integral to membrane,AFFECTS,Pattern Formation
+Molecular Genetics of ALL,integral to membrane,AFFECTS,stem cell maintenance
+Molecular Genetics of ALL,multicatalytic endopeptidase complex,STIMULATES,NOTCH1 gene
+Molecular Genetics of ALL,secretase,STIMULATES,NOTCH1 gene
+Molecular Genetics of ALL,TRANSCRIPTION FACTOR,ASSOCIATED_WITH,Chromosomal translocation
+Molecular Genetics of ALL,T-Cell Receptor,AFFECTS,X-linked severe combined immunodeficiency
+Molecular Genetics of ALL,LMO2 gene,AFFECTS,Cell fusion
+Molecular Genetics of ALL,v-myb Genes,ASSOCIATED_WITH,Chromosomal translocation
+Molecular Genetics of ALL,v-myb Genes,ASSOCIATED_WITH,DELETION
+Molecular Genetics of ALL,IL7R gene,STIMULATES,Phosphotransferases
+Molecular Genetics of ALL,JAK1 gene,STIMULATES,Phosphotransferases
+Molecular Genetics of ALL,JAK3 gene,STIMULATES,Phosphotransferases
+Molecular Genetics of ALL,PHF6 gene,STIMULATES,Phosphotransferases
+Molecular Genetics of ALL,histone acetyltransferase,compared_with,Glucocorticoids
+Molecular Genetics of ALL,Diagnosis,COEXISTS_WITH,Therapeutic procedure
+Pharmacogenetics,Myelosuppression,PROCESS_OF,Patients
+Pharmacogenetics,Candidate Disease Gene,INTERACTS_WITH,6-Mercaptopurine
+Pharmacogenetics,Metabolites,ASSOCIATED_WITH,Hepatotoxicity
+Pharmacogenetics,Metabolites,ASSOCIATED_WITH,Myelosuppression
+Pharmacogenetics,Therapeutic procedure,USES,Allopurinol
+Pharmacogenetics,Folate,ASSOCIATED_WITH,Toxic effect
+Pharmacogenetics,Single Nucleotide Polymorphism,AFFECTS,Drug Metabolism
+Pharmacogenetics,Antineoplastic Agents,AFFECTS,Blast Cell
+Pharmacogenetics,host,LOCATION_OF,Toxic effect
+Pharmacogenetics,Bone necrosis,PREDISPOSES,"Neoplasm, Residual"
+Pharmacogenetics,Late effect of,PREDISPOSES,"Neoplasm, Residual"
+Clinical Presentation,Leukemic Cell,PART_OF,Child
+Clinical Presentation,Anemia,ISA,Clinical finding
+Clinical Presentation,Neutropenia,ISA,Clinical finding
+Clinical Presentation,Neutropenia,ISA,Symptoms
+Clinical Presentation,Thrombocytopenia,ISA,Clinical finding
+Clinical Presentation,Thrombocytopenia,ISA,Symptoms
+Clinical Presentation,Mediastinal mass,OCCURS_IN,Boys
+Clinical Presentation,Mediastinal mass,PROCESS_OF,Child
+Clinical Presentation,"Leukemia, T-Cell",PROCESS_OF,Patients
+Clinical Presentation,Central Nervous System Leukemia,PROCESS_OF,Patients
+Clinical Presentation,Physical findings,PROCESS_OF,Patients
+Clinical Presentation,Symptoms,PROCESS_OF,Patients
+Clinical Presentation,Anorexia,ISA,Symptoms
+Clinical Presentation,Anorexia,PROCESS_OF(SPEC),Child
+Clinical Presentation,Constipation,ISA,Symptoms
+Clinical Presentation,Constipation,PROCESS_OF(SPEC),Child
+Clinical Presentation,Lethargy,ISA,Symptoms
+Clinical Presentation,Lethargy,PROCESS_OF(SPEC),Child
+Clinical Presentation,Nausea,ISA,Symptoms
+Clinical Presentation,Nausea,PROCESS_OF(SPEC),Child
+Clinical Presentation,Muscle Weakness,ISA,Symptoms
+Clinical Presentation,Muscle Weakness,PROCESS_OF(SPEC),Child
+Clinical Presentation,Symptoms,PROCESS_OF,Child
+Clinical Presentation,Lameness,PROCESS_OF,Child
+Clinical Presentation,Disease,COEXISTS_WITH,Arthralgia
+Clinical Presentation,Bone pain,COEXISTS_WITH,Symptoms
+Clinical Presentation,Steroids,PART_OF,Patients
+Clinical Presentation,Bone Marrow,LOCATION_OF,Body Weight Changes
+Clinical Presentation,Hypereosinophilia,PROCESS_OF,Patients
+Clinical Presentation,Eosinophilia,PROCESS_OF,Patients
+Clinical Presentation,Chromosomal translocation,COEXISTS_WITH,"Leukemia, B-Cell, Acute"
+Clinical Presentation,Acute Erythroblastic Leukemia,ISA,Myeloid Leukemia
+Clinical Presentation,Bone Marrow Involvement,PROCESS_OF,Patients
+Clinical Presentation,Cells,LOCATION_OF,"Leukemia, B-Cell, Acute"
+Clinical Presentation,"Leukemia, B-Cell, Acute",ISA,Burkitt Lymphoma
+Clinical Presentation,"Leukemia, B-Cell, Acute",PROCESS_OF,Child
+Clinical Presentation,Cells,LOCATION_OF,"Leukemia, B-Cell, Acute"
+Clinical Presentation,lymphoblast,LOCATION_OF,T-Cell Lymphoma
+Clinical Presentation,Thrombocytopenia,OCCURS_IN,Patients
+Clinical Presentation,Immunophenotyping,METHOD_OF,Karyotype determination procedure
+Clinical Presentation,Blast Cell,PART_OF,Marrow
+Clinical Presentation,Marrow,LOCATION_OF,Biopsy
+Clinical Presentation,Assessment procedure,USES,Biopsy
+Clinical Presentation,Assessment procedure,METHOD_OF,Diagnosis
+Clinical Presentation,Immunophenotyping,USES,Monoclonal Antibodies
+Clinical Presentation,Cytogenetic procedure,USES,Monoclonal Antibodies
+Clinical Presentation,Abnormal result,PROCESS_OF,Patients
+Clinical Presentation,Uric acid urolithiasis,ISA,Hyperuricemia
+Clinical Presentation,Allopurinol,ISA,Xanthine Oxidase Inhibitors
+Clinical Presentation,Allopurinol,PREVENTS,Complication
+Clinical Presentation,Excretory function,PROCESS_OF,Precipitation
+Clinical Presentation,Entire renal tubule,LOCATION_OF,xanthine
+Clinical Presentation,Entire renal tubule,LOCATION_OF,CALCIUM PHOSPHATE CRYSTALS
+Clinical Presentation,Induction,TREATS,Patients
+Clinical Presentation,Hydrogen Peroxide,CAUSES,"Anemia, Hemolytic"
+Clinical Presentation,Hydrogen Peroxide,CAUSES,Methemoglobinemia
+Clinical Presentation,Rasburicase,INHIBITS,Calcium
+Clinical Presentation,Bulky Disease,PROCESS_OF,Patients
+Clinical Presentation,Lysis,CAUSES,Hypercalcemia
+Clinical Presentation,Asymptomatic,PROCESS_OF,Patients
+Clinical Presentation,Blast,PROCESS_OF,Leukemic Infiltration
+Clinical Presentation,Leukemic Infiltration,PART_OF,Liver
+Clinical Presentation,Diagnosis,COEXISTS_WITH,Therapeutic procedure
+Clinical Presentation,Hypereosinophilia,PREDISPOSES,Loeffler Syndrome
+Clinical Presentation,Syndrome,COEXISTS_WITH,Diabetes Insipidus
+Clinical Presentation,Syndrome,COEXISTS_WITH,Hyperphagia
+Clinical Presentation,Syndrome,COEXISTS_WITH,Weight Gain
+Clinical Presentation,Leukemic Cell,LOCATION_OF,Intracranial mass
+Clinical Presentation,Neurologic Signs,PROCESS_OF,Child
+Clinical Presentation,Symptoms,PROCESS_OF,Child
+Clinical Presentation,Bone Marrow,LOCATION_OF,Central Nervous System Leukemia
+Clinical Presentation,Bone Marrow,PART_OF,Bone structure of cranium
+Clinical Presentation,Petechiae,CAUSES,Thrombocytopenia
+Clinical Presentation,Entire choroid plexus,LOCATION_OF,Leukemic Infiltration
+Clinical Presentation,Parenchyma,PART_OF,Brain
+Clinical Presentation,Diagnosis,USES,Spinal Puncture
+Clinical Presentation,"Leukemia, B-Cell, Acute",PROCESS_OF,Child
+Clinical Presentation,Diagnosis,TREATS,Patients
+Clinical Presentation,Bone Marrow,LOCATION_OF,Cerebrospinal Fluid
+Clinical Presentation,Asymptomatic,PROCESS_OF,Patients
+Clinical Presentation,Central Nervous System Leukemia,PROCESS_OF,Patients
+Clinical Presentation,Flow Cytometry,ISA,Diagnosis
+Clinical Presentation,Treatment Protocols,compared_with,Therapeutic procedure
+Clinical Presentation,Blast Cell,PART_OF,Fishes
+Clinical Presentation,Therapeutic procedure,AFFECTS,Central Nervous System Leukemia
+Clinical Presentation,Testicular Leukemia,AFFECTS,Testis
+Clinical Presentation,Flow Cytometry,METHOD_OF,Immunophenotyping
+Clinical Presentation,Biopsy,DIAGNOSES,Testicular Diseases
+Clinical Presentation,Marrow,LOCATION_OF,Disease
+Clinical Presentation,Pharmacotherapy,TREATS,Disease
+Clinical Presentation,Relapse,ISA,Recurrence
+Clinical Presentation,Liver,LOCATION_OF,leukemia
+Clinical Presentation,Spleen,LOCATION_OF,leukemia
+Clinical Presentation,Exploratory laparotomy,ADMINISTERED_TO,Patients
+Clinical Presentation,Abdominal lymph node group,LOCATION_OF,leukemia
+Prognostic Factors,Lymphatic Diseases,COEXISTS_WITH,Mediastinal mass
+Prognostic Factors,Serum,LOCATION_OF,Immunoglobulins
+Prognostic Factors,White Blood Cell Count procedure,DIAGNOSES,"Leukemia, B-Cell, Acute"
+Prognostic Factors,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
+Prognostic Factors,Chemotherapy-Oncologic Procedure,TREATS,Girls
+Prognostic Factors,Hyperploidy,OCCURS_IN,Boys
+Prognostic Factors,Mutation,AFFECTS,Patients
+Prognostic Factors,hLL2 agent,ISA,Monoclonal Antibodies
+Prognostic Factors,Child,LOCATION_OF,Single Nucleotide Polymorphism
+Prognostic Factors,Pharmacotherapy,compared_with,Therapeutic procedure
+Prognostic Factors,Patients,LOCATION_OF,TAF1 gene
+Prognostic Factors,Therapeutic procedure,TREATS,Racial group
+Prognostic Factors,"Receptors, Antigen",STIMULATES,FASTK Gene
+Prognostic Factors,Pharmacotherapy,TREATS,Patients
+Prognostic Factors,Hemopoietic stem cell transplant,TREATS,Patients
+Prognostic Factors,Induction,TREATS,Patients
+Prognostic Factors,Cells,LOCATION_OF,Immunoglobulins
+Prognostic Factors,Cells,LOCATION_OF,"Genes, T-Cell Receptor"
+Prognostic Factors,Flow Cytometry,DIAGNOSES,"Neoplasm, Residual"
+Prognostic Factors,Obesity,PROCESS_OF,Patients
+Prognostic Factors,host,LOCATION_OF,Toxic effect
+Prognostic Factors,Intervention regimes,COEXISTS_WITH,Therapeutic procedure
+Treatment,Application procedure,TREATS,Adverse event
+Treatment,Reporting,TREATS,Adverse event
+Treatment,Hypoploidy,PROCESS_OF,Clinical Trials Cooperative Group
+Treatment,Protein-tyrosine kinase inhibitor,NEG_TREATS,Transplanted organ and tissue status
+Treatment,Dexamethasone,AUGMENTS,Complication
+Treatment,prednisolone,ISA,Glucocorticoids
+Treatment,Prednisone,ISA,Glucocorticoids
+Treatment,ASPARAGINASE,ISA,Therapeutic procedure
+Treatment,Asparagine,CAUSES,apoptotic program
+Treatment,Plasma,LOCATION_OF,Asparagine
+Treatment,Anaphylaxis,ISA,Hypersensitivity
+Treatment,ASPARAGINASE,INTERACTS_WITH,Pharmaceutical Preparations
+Treatment,Allergic Reaction,ISA,Hypersensitivity
+Treatment,6-Mercaptopurine,ADMINISTERED_TO(SPEC),Patients
+Treatment,6-Mercaptopurine,ISA,Therapeutic procedure
+Treatment,ASPARAGINASE,CAUSES,Pancreatitis
+Treatment,ASPARAGINASE,CAUSES,Thrombosis
+Treatment,ASPARAGINASE,CAUSES,Inactivation
+Treatment,ASPARAGINASE,INTERACTS_WITH,Proteins
+Treatment,Dexamethasone,ISA,Pharmaceutical Preparations
+Treatment,Glucocorticoids,ADMINISTERED_TO(SPEC),Patients
+Treatment,Glucocorticoids,ISA,Therapeutic procedure
+Treatment,Patients,LOCATION_OF,Asparagine
+Treatment,Recurrence,CAUSES,Pancreatitis
+Treatment,Trimethoprim-Sulfamethoxazole Combination,ADMINISTERED_TO(SPEC),Patients
+Treatment,Trimethoprim-Sulfamethoxazole Combination,ISA,Therapeutic procedure
+Treatment,Therapeutic procedure,ADMINISTERED_TO,Patients
+Treatment,Therapeutic procedure,USES,ASPARAGINASE
+Treatment,Octreotide,TREATS,Patients
+Treatment,Erwinia asparaginase,STIMULATES,ASPARAGINASE
+Treatment,Erwinia asparaginase,STIMULATES,Glucocorticoids
+Treatment,Erwinia asparaginase,STIMULATES,Vincristine
+Treatment,Drug Combinations,TREATS,Patients
+Treatment,Anthracycline Antibiotics,CAUSES,Mucositis
+Treatment,Anthracycline Antibiotics,CAUSES,Myelosuppression
+Treatment,Treatment Protocols,USES,ASPARAGINASE
+Treatment,Treatment Protocols,USES,Vincristine
+Treatment,Dexrazoxane,PREVENTS,Cardiotoxicity
+Treatment,Cardiotoxicity,PROCESS_OF,Adult
+Treatment,Cardiotoxicity,PROCESS_OF,Patients
+Treatment,Treatment Protocols,TREATS,Child
+Treatment,Dexrazoxane,PREDISPOSES,secondary acute myeloid leukemia
+Treatment,Marrow,LOCATION_OF,leukemia
+Treatment,Therapeutic procedure,TREATS,Patients
+Treatment,"Aplasia, NOS",PROCESS_OF,Patients
+Treatment,Marrow,PART_OF,Patients
+Treatment,Diagnosis,USES,Pharmaceutical Preparations
+Treatment,Growth,PROCESS_OF,brain function
+Treatment,Treatment Protocols,TREATS,Patients
+Treatment,Treatment Protocols,TREATS(INFER),Functional disorder
+Treatment,Treatment Protocols,TREATS(INFER),Myelosuppression
+Treatment,Functional disorder,AFFECTS,Radiation
+Treatment,Functional disorder,PROCESS_OF,Patients
+Treatment,Myelosuppression,AFFECTS,Radiation
+Treatment,Myelosuppression,PROCESS_OF,Patients
+Treatment,Treatment Protocols,ADMINISTERED_TO,Survivors
+Treatment,Cranial Irradiation,USES,Methotrexate
+Treatment,Disease,PREDISPOSES,Central Nervous System Leukemia
+Treatment,leukemia,ISA,Disease
+Treatment,leukemia,PREDISPOSES(SPEC),Central Nervous System Leukemia
+Treatment,leukemia,PROCESS_OF,Infant
+Treatment,T-Lymphocyte,LOCATION_OF,Disease
+Treatment,T-Lymphocyte,LOCATION_OF(SPEC),leukemia
+Treatment,Cytarabine,ISA,Pharmacotherapy
+Treatment,Hydrocortisone,ISA,Pharmacotherapy
+Treatment,Methotrexate,ISA,Pharmacotherapy
+Treatment,Drowsiness,ASSOCIATED_WITH,Leukoencephalopathy
+Treatment,Physical findings,ASSOCIATED_WITH,Leukoencephalopathy
+Treatment,Cranial Irradiation,TREATS,Patients
+Treatment,Drowsiness,ISA,Symptoms
+Treatment,Drowsiness,ISA,Symptoms
+Treatment,Electroencephalogram abnormal,NEG_PREDISPOSES,Adverse event
+Treatment,CSF PLEOCYTOSIS,NEG_PREDISPOSES,Adverse event
+Treatment,Compartments,PART_OF,Marrow
+Treatment,Neuraxis,LOCATION_OF,high-dose chemotherapy
+Treatment,Prognosis bad,PROCESS_OF,Patients
+Treatment,Maintenance therapy,NEG_USES,Pharmaceutical Preparations
+Treatment,Leukemic Cell,LOCATION_OF,Toxic effect
+Treatment,Methotrexate,TREATS,"Leukemia, B-Cell, Acute"
+Treatment,"Leukemia, B-Cell, Acute",PROCESS_OF,Child
+Treatment,Methotrexate,ISA,Therapeutic procedure
+Treatment,Therapeutic procedure,USES,Methotrexate
+Treatment,Treatment Protocols,USES,Methotrexate
+Treatment,Pharmacotherapy,ADMINISTERED_TO,Patients
+Treatment,Pharmacotherapy,USES,6-Mercaptopurine
+Treatment,Pharmacotherapy,USES,Cyclophosphamide
+Treatment,Pharmacotherapy,USES,Methotrexate
+Treatment,Therapeutic procedure,ADMINISTERED_TO,Patients
+Treatment,Maintenance therapy,USES,6-Mercaptopurine
+Treatment,Maintenance therapy,USES,Methotrexate
+Treatment,6-Mercaptopurine,TREATS,Patients
+Treatment,Thioguanine,TREATS,Patients
+Treatment,Thiopurine S-Methyltransferase,INTERACTS_WITH(INFER),6-Mercaptopurine
+Treatment,Thiopurine S-Methyltransferase,INTERACTS_WITH(INFER),Thioguanine
+Treatment,Thiopurine S-Methyltransferase,PART_OF,Patients
+Treatment,Liver,LOCATION_OF,Toxic effect
+Treatment,Thioguanine,ISA,Therapeutic procedure
+Treatment,Therapeutic procedure,USES,Thioguanine
+Treatment,Therapeutic procedure,compared_with,Therapeutic procedure
+Treatment,Therapeutic procedure,higher_than,Therapeutic procedure
+Treatment,Fusion Protein,PRODUCES,"BCR protein, human"
+Treatment,Gleevec,ISA,Imatinib mesylate
+Treatment,Protein-tyrosine kinase inhibitor,COEXISTS_WITH,Fusion Protein
+Treatment,Bone Marrow Transplantation,TREATS,Adult
+Treatment,Pharmacotherapy,TREATS,Adult
+Treatment,imatinib,COEXISTS_WITH,BCR gene
+Treatment,Pharmacotherapy,TREATS,cohort
+Treatment,Therapeutic procedure,USES,Protein-tyrosine kinase inhibitor
+Treatment,Pharmacotherapy,TREATS,cohort
+Treatment,imatinib,ADMINISTERED_TO,cohort
+Treatment,Therapeutic procedure,USES,Protein-tyrosine kinase inhibitor
+Treatment,Pharmacotherapy,TREATS,"Leukemia, Myelocytic, Acute"
+Treatment,Neoadjuvant Therapy,TREATS,Patients
+Treatment,MLL gene,PART_OF,Patients
+Treatment,inhibitors,AFFECTS,Disease
+Treatment,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
+Treatment,T-Lymphocyte,LOCATION_OF,Disease
+Treatment,Neurotoxicity Syndromes,PROCESS_OF,Patients
+Treatment,Vitelliform dystrophy,COEXISTS_WITH,Disease
+Supportive Care,Therapeutic procedure,TREATS,Family
+Supportive Care,Therapeutic procedure,TREATS,Patients
+Supportive Care,Psychosocial care,TREATS,Family
+Supportive Care,Psychosocial care,TREATS,Patients
+Supportive Care,Detection,TREATS,Family
+Supportive Care,Detection,TREATS,Patients
+Supportive Care,Cessation of life,PROCESS_OF,Patients
+Supportive Care,Disease,PROCESS_OF,Patients
+Supportive Care,Hemorrhage,ISA,Disease
+Supportive Care,Hemorrhage,PROCESS_OF(SPEC),Patients
+Supportive Care,Supportive care,TREATS,leukemia
+Supportive Care,Blood product,CAUSES,Death (finding)
+Supportive Care,leukemia,PROCESS_OF,Patients
+Supportive Care,Erythrocyte Transfusion,TREATS,Acquired Immunodeficiency Syndrome
+Supportive Care,Erythrocyte Transfusion,TREATS,Anemia
+Supportive Care,Hypocellular bone marrow,CAUSES,Agranulocytosis
+Supportive Care,Disease Progression,CAUSES,Agranulocytosis
+Supportive Care,Diagnosis,TREATS,Neutropenia
+Supportive Care,Fever,PROCESS_OF,Patients
+Supportive Care,Therapeutic Intervention,TREATS,Neutropenia
+Supportive Care,Granulocyte Colony-Stimulating Factor,ISA,Growth Factor
+Supportive Care,Granulocyte Colony-Stimulating Factor,TREATS,Leukopenia
+Supportive Care,lymphoblast,LOCATION_OF,Granulocyte Colony-Stimulating Factor
+Supportive Care,Complication,AFFECTS,Child
+Supportive Care,leukemia,PROCESS_OF,Child
+Supportive Care,Therapeutic procedure,PREDISPOSES,Infection
+Supportive Care,Induction,PREDISPOSES,Infection
+Supportive Care,Dapsone,TREATS,Chickenpox
+Supportive Care,Pentamidine,TREATS,Chickenpox
+Supportive Care,Therapeutic procedure,TREATS,Child
+Supportive Care,"Vaccines, Attenuated",ADMINISTERED_TO,Child
+Supportive Care,varicella-zoster immune globulin,ADMINISTERED_TO,Patients
+Supportive Care,Gamma globulin,PART_OF,Measles virus
+Supportive Care,Measles,PROCESS_OF,Child
+Supportive Care,leukemia,PROCESS_OF,Patients
+Supportive Care,Vaccines,TREATS,Patients
+Supportive Care,Vaccines,TREATS(INFER),leukemia
+Supportive Care,Virus,PROCESS_OF,Patients
+Supportive Care,Cessation of life,PROCESS_OF,Patients
+Supportive Care,Malnutrition,PROCESS_OF,Patients
+Supportive Care,Obesity,PROCESS_OF,Survivors
+Treatment of Relapse,x,x,x
+Late Effects of Treatment,Sequela of disorder,PROCESS_OF,Survivors
+Late Effects of Treatment,Neoplasm,OCCURS_IN,Patients
+Late Effects of Treatment,Therapeutic procedure,TREATS,Clinical Nurse Specialists
+Late Effects of Treatment,delayed toxicity,PROCESS_OF,Patients
+Late Effects of Treatment,Demyelination,COEXISTS_WITH,Leukoencephalopathy
+Late Effects of Treatment,Methotrexate,TREATS,Patients
+Late Effects of Treatment,Cranial Irradiation,NEG_ADMINISTERED_TO,Patients
+Late Effects of Treatment,Cranial Irradiation,TREATS,Patients
+Late Effects of Treatment,Syndrome,PROCESS_OF,Patients
+Late Effects of Treatment,Structure of small blood vessel (organ),LOCATION_OF,Degenerative disorder
+Late Effects of Treatment,Dystrophic calcification,COEXISTS_WITH,Degenerative disorder
+Late Effects of Treatment,Brain tissue,LOCATION_OF,Dystrophic calcification
+Late Effects of Treatment,Methotrexate,TREATS,Child
+Late Effects of Treatment,Cranial Irradiation,TREATS,Child
+Late Effects of Treatment,Blood supply aspects,LOCATION_OF,Disease of capillaries
+Late Effects of Treatment,Blood supply aspects,PART_OF,Brain
+Late Effects of Treatment,Methotrexate,STIMULATES,homocysteine
+Late Effects of Treatment,calcification,ASSOCIATED_WITH,homocysteine
+Late Effects of Treatment,Neuraxis,LOCATION_OF,Radiation therapy
+Late Effects of Treatment,Patients,LOCATION_OF,homocysteine
+Late Effects of Treatment,cysteine sulfinic acid,CAUSES,Seizures
+Late Effects of Treatment,Depressive disorder,AFFECTS,Survivors
+Late Effects of Treatment,6-Mercaptopurine,AFFECTS,hypothalamus-pituitary axis
+Late Effects of Treatment,Radiation therapy,ADMINISTERED_TO,Child
+Late Effects of Treatment,Nuclear magnetic resonance imaging abnormal,PROCESS_OF,Patients
+Late Effects of Treatment,Somatotropin,TREATS,Child
+Late Effects of Treatment,Cranial Irradiation,AFFECTS,growth hormone secretion
+Late Effects of Treatment,Short stature,PROCESS_OF,Child
+Late Effects of Treatment,Second Primary Cancers,OCCURS_IN,Child
+Late Effects of Treatment,Diagnosis,COEXISTS_WITH,Therapeutic procedure
+Late Effects of Treatment,Cranial Irradiation,TREATS,Height
+Late Effects of Treatment,Cranial Irradiation,AFFECTS,Growth
+Late Effects of Treatment,Growth,PROCESS_OF,Patients
+Late Effects of Treatment,Cranial Irradiation,ADMINISTERED_TO,Adult
+Late Effects of Treatment,Adrenal Cortex Hormones,AFFECTS,Liver
+Late Effects of Treatment,Adrenal Cortex Hormones,ISA,Pharmaceutical Preparations
+Late Effects of Treatment,Pharmaceutical Preparations,AFFECTS(SPEC),Liver
+Late Effects of Treatment,Pharmaceutical Preparations,ISA,Adrenal Cortex Hormones
+Late Effects of Treatment,Obesity,OCCURS_IN,Child
+Late Effects of Treatment,Therapeutic procedure,COEXISTS_WITH,Hospitalization
+Late Effects of Treatment,Short stature,PROCESS_OF,Child
+Late Effects of Treatment,Growth delay,PROCESS_OF,Child
+Late Effects of Treatment,Therapeutic procedure,ADMINISTERED_TO,Patients
+Late Effects of Treatment,Anthracycline Antibiotics,ADMINISTERED_TO,Patients
+Late Effects of Treatment,Therapeutic procedure,PREDISPOSES,Cardiomyopathies
+Late Effects of Treatment,Cardiomyopathies,PROCESS_OF,Patients
+Late Effects of Treatment,Anthracycline Antibiotics,CAUSES,Cardiomyopathies
+Late Effects of Treatment,Therapeutic procedure,USES,Anthracycline Antibiotics
+Late Effects of Treatment,Antineoplastic Agents,AFFECTS,Cardiotoxicity
+Late Effects of Treatment,follow-up,COEXISTS_WITH,Therapeutic procedure
+Late Effects of Treatment,Dexrazoxane,ISA,Cardiotonic Agents
+Late Effects of Treatment,antileukemic agent,COEXISTS_WITH,Anthracycline Antibiotics
+Late Effects of Treatment,Zinecard,ISA,Dexrazoxane
+Late Effects of Treatment,Steroid therapy,CAUSES,Avascular necrosis
+Late Effects of Treatment,CYCLOPHOSPHAMIDE TREATMENT,CAUSES,Thrombosis
+Late Effects of Treatment,CYCLOPHOSPHAMIDE TREATMENT,CAUSES,Hemorrhagic infarct
+Late Effects of Treatment,Pharmacotherapy,TREATS,Patients
+Late Effects of Treatment,Sexual function,PROCESS_OF,Patients
+Late Effects of Treatment,Alkylating Agents,ISA,Therapeutic procedure
+Late Effects of Treatment,Pharmacotherapy,TREATS,Patients
+Late Effects of Treatment,Therapeutic procedure,USES,Alkylating Agents
+Late Effects of Treatment,leukemia,PROCESS_OF,Girls
+Late Effects of Treatment,Pharmacotherapy,ADMINISTERED_TO,Boys
+Late Effects of Treatment,Therapeutic procedure,TREATS,leukemia
+Late Effects of Treatment,Pharmacotherapy,ADMINISTERED_TO,Male population group
+Late Effects of Treatment,Pharmacotherapy,PRECEDES,Therapeutic procedure
+Late Effects of Treatment,Mutagens,CAUSES,Foetal damage
+Late Effects of Treatment,Normal delivery,PROCESS_OF,Woman
+Late Effects of Treatment,Second Primary Cancers,PROCESS_OF,Child
+Late Effects of Treatment,Brain Neoplasms,ISA,Central Nervous System Neoplasms
+Late Effects of Treatment,Chromosome abnormality,COEXISTS_WITH,leukemia
+Late Effects of Treatment,Pharmacotherapy,TREATS,Patients
+Late Effects of Treatment,Pharmaceutical Preparations,TREATS,Cancer Patient
+Late Effects of Treatment,secondary acute myeloid leukemia,AFFECTS,leukemia
+Late Effects of Treatment,Adenocarcinoma,PART_OF,Colon
+Late Effects of Treatment,Brain Neoplasms,OCCURS_IN,Patients
+Late Effects of Treatment,Glioma,ISA,Brain Neoplasms
+Late Effects of Treatment,Glioma,OCCURS_IN(SPEC),Patients
+Late Effects of Treatment,Immune system,LOCATION_OF,Pharmacotherapy
+Late Effects of Treatment,"Leukemia, Myelocytic, Acute",ISA,Hematopoietic Neoplasms
+Late Effects of Treatment,"Leukemia, Myelocytic, Acute",OCCURS_IN(SPEC),Patients
+Late Effects of Treatment,Dysmyelopoietic Syndromes,ISA,Hematopoietic Neoplasms
+Late Effects of Treatment,Dysmyelopoietic Syndromes,OCCURS_IN(SPEC),Patients
+Late Effects of Treatment,Hematopoietic Neoplasms,OCCURS_IN,Patients
+Late Effects of Treatment,"Stress Disorders, Post-Traumatic",PROCESS_OF,Patients
+Late Effects of Treatment,"Stress Disorders, Post-Traumatic",PROCESS_OF,Survivors
+Late Effects of Treatment,Solid tumor,PROCESS_OF,Patients
+Late Effects of Treatment,leukemia,PROCESS_OF,Patients
+Future Challenges,Application procedure,METHOD_OF,Therapeutic procedure
+Future Challenges,cooperative,LOCATION_OF,Clinical Trials
+Future Challenges,Therapeutic procedure,TREATS,Disease
+Future Challenges,leukemia,PROCESS_OF,Child
+Future Challenges,Therapeutic procedure,TREATS,Disease
