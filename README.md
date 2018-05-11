@@ -24,7 +24,8 @@ This text file contains all the code used to run the SemRep WebAPI. The steps in
 This python script extracts triples from files created in the process of running blocks of code in semrep_command.txt. Make sure to manually specify inside the python file what input files to run the script on.
 
 ### plots_for_triples.py
-This python script creates all the plots reported in our final paper and final presentation.
+This python script creates all the plots reported in our final paper and final presentation using the data provided in this github repository.
+Running this code generates all the plots in the plots directory.
 
 # Results
 ## Metamap folder
@@ -56,6 +57,9 @@ These files contain triples automatically extracted via SemRep WebAPI on all the
 
 ### subset_triples.csv
 These files contain triples automatically extracted via SemRep WebAPI on the subset of data that was also used to create the gold standard triples
+
+### PubMedGS_Triples.csv, ClinTrialGS_Triples.csv, TextBookGS_Triples.csv
+These files contain triples manually extracted on the subset of data
 
 ### IdealSemanticRelations_csv
 This file contains examples of desired ontologic predications for pediatric ALL used to make an ideal semantic network

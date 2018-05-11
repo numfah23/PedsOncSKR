@@ -1,123 +1,123 @@
-Source Type,Source,Subject,Predicate,Object
-PMID,12036898,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-PMID,12036898,Child,LOCATION_OF,CDKN2A gene | CDKN2A
-PMID,27502091,"Leukemia, Lymphocytic, Acute, L1",PROCESS_OF,Adolescent
-PMID,27502091,"Leukemia, Lymphocytic, Acute, L1",PROCESS_OF,Child
-PMID,28983018,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Adolescent
-PMID,28983018,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-PMID,28983018,Drug Kinetics,PROCESS_OF,Young adult
-PMID,28983018,Drug Kinetics,PROCESS_OF,Adolescent
-PMID,28983018,Drug Kinetics,PROCESS_OF,Child
-PMID,28983018,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Young adult
-PMID,28983018,Pharmacotherapy,TREATS,Child
-PMID,28983018,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-PMID,28983018,Pharmacotherapy,TREATS,"Leukemia, Lymphocytic, Acute"
-PMID,28809761,Hematologic Neoplasms,PROCESS_OF,Child
-PMID,28809761,"Leukemia, B-Cell, Acute",ISA,Hematologic Neoplasms
-PMID,28809761,"Leukemia, B-Cell, Acute",PROCESS_OF,Child
-PMID,29417201,Therapeutic procedure,USES,RFP2 gene
-PMID,29417201,Therapeutic procedure,compared_with,Pharmacotherapy
-PMID,29417201,Induction,TREATS,"Leukemia, Lymphocytic, Acute"
-PMID,29417201,leukemia,PROCESS_OF,Patients
-PMID,29417201,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Patients
-PMID,29417201,"Receptors, Antigen",AFFECTS,T-Lymphocyte
-PMID,29417201,Transplanted organ and tissue status,PROCESS_OF,Patients
-PMID,29417201,Therapeutic procedure,TREATS,"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,Malignant Neoplasms,PROCESS_OF,Child
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",ISA,Malignant Neoplasms
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF(SPEC),Child
-NCT,NCT03020030,Cells,LOCATION_OF,Malignant Neoplasms
-NCT,NCT03020030,Disease,PROCESS_OF,Child
-NCT,NCT03020030,Disease,PROCESS_OF,Adolescent
-NCT,NCT03020030,Therapeutic procedure,TREATS,"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,Pharmaceutical Preparations,NEG_TREATS,Child
-NCT,NCT03020030,Pharmaceutical Preparations,NEG_TREATS,Adolescent
-NCT,NCT03020030,Pharmaceutical Preparations,NEG_TREATS(INFER),"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Adolescent
-NCT,NCT03020030,Therapeutic procedure,ADMINISTERED_TO,Child
-NCT,NCT03020030,Therapeutic procedure,ADMINISTERED_TO,Adolescent
-NCT,NCT03020030,Blood,LOCATION_OF,pegaspargase
-NCT,NCT03020030,Therapeutic procedure,TREATS,"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-NCT,NCT03020030,Therapeutic procedure,TREATS,Child
-NCT,NCT03020030,Therapeutic procedure,TREATS(INFER),"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,Blood,LOCATION_OF,leukemia
-NCT,NCT03020030,Cells,LOCATION_OF,Genetic Materials
-NCT,NCT03020030,Chromosomes,LOCATION_OF,leukemia
-NCT,NCT03020030,Leukemic Cell,LOCATION_OF,leukemia
-NCT,NCT03020030,Marrow,LOCATION_OF,leukemia
-NCT,NCT03020030,leukemia,PROCESS_OF,Child
-NCT,NCT03020030,Genes,PART_OF,Leukemic Cell
-NCT,NCT03020030,Therapeutic procedure,TREATS,Participant
-NCT,NCT03020030,Therapeutic procedure,TREATS,Participant
-NCT,NCT03020030,Pharmaceutical Preparations,TREATS,"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,pegaspargase,ISA,Pharmaceutical Preparations
-NCT,NCT03020030,pegaspargase,TREATS(SPEC),"Leukemia, Lymphocytic, Acute"
-NCT,NCT03020030,Therapeutic procedure,CAUSES,Adverse effects
-NCT,NCT03020030,Blood,LOCATION_OF,pegaspargase
-NCT,NCT03020030,Pharmaceutical Preparations,compared_with,pegaspargase
-NCT,NCT03020030,Pharmaceutical Preparations,higher_than,pegaspargase
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Child
-NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Adolescent
-NCT,NCT00042341,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Adult
-NCT,NCT00042341,clofarabine,ISA,Therapeutic procedure
-NCT,NCT00042341,clofarabine,ISA,Injection procedure
-NCT,NCT00042341,clofarabine,TREATS,"Leukemia, Lymphocytic, Acute"
-NCT,NCT00042341,Medication Management,METHOD_OF,Therapeutic procedure
-NCT,NCT00042341,clofarabine,TREATS,Patients
-NCT,NCT00042341,clofarabine,TREATS,Patients
-NCT,NCT02228096,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
-NCT,NCT02228096,"Therapies, Investigational",TREATS,Patients
-NCT,NCT02228096,"Therapies, Investigational",TREATS(INFER),"Leukemia, B-Cell, Acute"
-NCT,NCT02819804,Malignant Neoplasms,COEXISTS_WITH,"Leukemia, Lymphocytic, Acute"
-NCT,NCT02819804,Therapeutic procedure,TREATS,Disease
-NCT,NCT02819804,Medication Management,METHOD_OF,Therapeutic procedure
-NCT,NCT02819804,ABL1 gene,AUGMENTS,Cells
-NCT,NCT02819804,Pharmaceutical Preparations,compared_with,Pharmaceutical Preparations
-NCT,NCT02819804,Pharmaceutical Preparations,higher_than,Pharmaceutical Preparations
-NCT,NCT02819804,Philadelphia chromosome positive,PROCESS_OF,Patients
-NCT,NCT02819804,Toxic effect,PROCESS_OF,Patients
-NCT,NCT02819804,Bone Marrow,LOCATION_OF,PDCD1 gene
-NCT,NCT02819804,peripheral blood,LOCATION_OF,PDCD1 gene
-NCT,NCT02819804,Peripheral,LOCATION_OF,T-Lymphocyte
-NCT,NCT02819804,Therapeutic procedure,TREATS,Patients
-NCT,NCT02819804,Therapeutic procedure,ADMINISTERED_TO,Patients
-NCT,NCT02819804,Hemopoietic stem cell transplant,ADMINISTERED_TO,Patients
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Patients
-NCT,NCT01471782,Malignant Neoplasms,PART_OF,Blood
-NCT,NCT01471782,Malignant Neoplasms,PART_OF,Bone Marrow
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",ISA,Malignant Neoplasms
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",PART_OF(SPEC),Blood
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",PART_OF(SPEC),Bone Marrow
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute, L1",ISA,"Leukemia, Lymphocytic, Acute"
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Patients
-NCT,NCT01471782,Drug Kinetics,PROCESS_OF,Patients
-NCT,NCT01471782,Part,LOCATION_OF,Cells
-NCT,NCT01471782,T-Cell Activation,PROCESS_OF,Patients
-NCT,NCT01471782,Drug Kinetics,PROCESS_OF,cohort
-NCT,NCT01471782,Pharmacotherapy,ADMINISTERED_TO,Participant
-NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",PROCESS_OF,Patients
-Section,Prognostic Factors,Lymphatic Diseases,COEXISTS_WITH,Mediastinal mass
-Section,Prognostic Factors,Serum,LOCATION_OF,Immunoglobulins
-Section,Prognostic Factors,White Blood Cell Count procedure,DIAGNOSES,"Leukemia, B-Cell, Acute"
-Section,Prognostic Factors,"Leukemia, B-Cell, Acute",PROCESS_OF,Patients
-Section,Prognostic Factors,Chemotherapy-Oncologic Procedure,TREATS,Girls
-Section,Prognostic Factors,Hyperploidy,OCCURS_IN,Boys
-Section,Prognostic Factors,Mutation,AFFECTS,Patients
-Section,Prognostic Factors,hLL2 agent,ISA,Monoclonal Antibodies
-Section,Prognostic Factors,Child,LOCATION_OF,Single Nucleotide Polymorphism
-Section,Prognostic Factors,Pharmacotherapy,compared_with,Therapeutic procedure
-Section,Prognostic Factors,Patients,LOCATION_OF,TAF1 gene
-Section,Prognostic Factors,Therapeutic procedure,TREATS,Racial group
-Section,Prognostic Factors,"Receptors, Antigen",STIMULATES,FASTK Gene
-Section,Prognostic Factors,Pharmacotherapy,TREATS,Patients
-Section,Prognostic Factors,Hemopoietic stem cell transplant,TREATS,Patients
-Section,Prognostic Factors,Induction,TREATS,Patients
-Section,Prognostic Factors,Cells,LOCATION_OF,Immunoglobulins
-Section,Prognostic Factors,Cells,LOCATION_OF,"Genes, T-Cell Receptor"
-Section,Prognostic Factors,Flow Cytometry,DIAGNOSES,"Neoplasm, Residual"
-Section,Prognostic Factors,Obesity,PROCESS_OF,Patients
-Section,Prognostic Factors,host,LOCATION_OF,Toxic effect
-Section,Prognostic Factors,Intervention regimes,COEXISTS_WITH,Therapeutic procedure
+Source Type,Source,Subject,Object,Predicate
+PMID,12036898.0,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+PMID,12036898.0,Child,CDKN2A gene | CDKN2A,LOCATION_OF
+PMID,27502091.0,"Leukemia, Lymphocytic, Acute, L1",Adolescent,PROCESS_OF
+PMID,27502091.0,"Leukemia, Lymphocytic, Acute, L1",Child,PROCESS_OF
+PMID,28983018.0,"Leukemia, Lymphocytic, Acute",Adolescent,PROCESS_OF
+PMID,28983018.0,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+PMID,28983018.0,Drug Kinetics,Young adult,PROCESS_OF
+PMID,28983018.0,Drug Kinetics,Adolescent,PROCESS_OF
+PMID,28983018.0,Drug Kinetics,Child,PROCESS_OF
+PMID,28983018.0,"Leukemia, Lymphocytic, Acute",Young adult,PROCESS_OF
+PMID,28809761.0,Hematologic Neoplasms,Child,PROCESS_OF
+PMID,28809761.0,"Leukemia, B-Cell, Acute",Hematologic Neoplasms,ISA
+PMID,28809761.0,"Leukemia, B-Cell, Acute",Child,PROCESS_OF
+PMID,28983018.0,Pharmacotherapy,Child,TREATS
+PMID,28983018.0,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+PMID,28983018.0,Pharmacotherapy,"Leukemia, Lymphocytic, Acute",TREATS
+PMID,29417201.0,Therapeutic procedure,RFP2 gene,USES
+PMID,29417201.0,Therapeutic procedure,Pharmacotherapy,compared_with
+PMID,29417201.0,Induction,"Leukemia, Lymphocytic, Acute",TREATS
+PMID,29417201.0,leukemia,Patients,PROCESS_OF
+PMID,29417201.0,"Leukemia, Lymphocytic, Acute",Patients,PROCESS_OF
+PMID,29417201.0,"Receptors, Antigen",T-Lymphocyte,AFFECTS
+PMID,29417201.0,Transplanted organ and tissue status,Patients,PROCESS_OF
+PMID,29417201.0,Therapeutic procedure,"Leukemia, Lymphocytic, Acute",TREATS
+NCT,NCT03020030,Malignant Neoplasms,Child,PROCESS_OF
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Malignant Neoplasms,ISA
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF(SPEC)
+NCT,NCT03020030,Cells,Malignant Neoplasms,LOCATION_OF
+NCT,NCT03020030,Disease,Child,PROCESS_OF
+NCT,NCT03020030,Disease,Adolescent,PROCESS_OF
+NCT,NCT03020030,Therapeutic procedure,"Leukemia, Lymphocytic, Acute",TREATS
+NCT,NCT03020030,Pharmaceutical Preparations,Child,NEG_TREATS
+NCT,NCT03020030,Pharmaceutical Preparations,Adolescent,NEG_TREATS
+NCT,NCT03020030,Pharmaceutical Preparations,"Leukemia, Lymphocytic, Acute",NEG_TREATS(INFER)
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Adolescent,PROCESS_OF
+NCT,NCT03020030,Therapeutic procedure,Child,ADMINISTERED_TO
+NCT,NCT03020030,Therapeutic procedure,Adolescent,ADMINISTERED_TO
+NCT,NCT03020030,Blood,pegaspargase,LOCATION_OF
+NCT,NCT03020030,Therapeutic procedure,"Leukemia, Lymphocytic, Acute",TREATS
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+NCT,NCT03020030,Therapeutic procedure,Child,TREATS
+NCT,NCT03020030,Therapeutic procedure,"Leukemia, Lymphocytic, Acute",TREATS(INFER)
+NCT,NCT03020030,Blood,leukemia,LOCATION_OF
+NCT,NCT03020030,Cells,Genetic Materials,LOCATION_OF
+NCT,NCT03020030,Chromosomes,leukemia,LOCATION_OF
+NCT,NCT03020030,Leukemic Cell,leukemia,LOCATION_OF
+NCT,NCT03020030,Marrow,leukemia,LOCATION_OF
+NCT,NCT03020030,leukemia,Child,PROCESS_OF
+NCT,NCT03020030,Genes,Leukemic Cell,PART_OF
+NCT,NCT03020030,Therapeutic procedure,Participant,TREATS
+NCT,NCT03020030,Therapeutic procedure,Participant,TREATS
+NCT,NCT03020030,Pharmaceutical Preparations,"Leukemia, Lymphocytic, Acute",TREATS
+NCT,NCT03020030,pegaspargase,Pharmaceutical Preparations,ISA
+NCT,NCT03020030,pegaspargase,"Leukemia, Lymphocytic, Acute",TREATS(SPEC)
+NCT,NCT03020030,Therapeutic procedure,Adverse effects,CAUSES
+NCT,NCT03020030,Blood,pegaspargase,LOCATION_OF
+NCT,NCT03020030,Pharmaceutical Preparations,pegaspargase,compared_with
+NCT,NCT03020030,Pharmaceutical Preparations,pegaspargase,higher_than
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Child,PROCESS_OF
+NCT,NCT03020030,"Leukemia, Lymphocytic, Acute",Adolescent,PROCESS_OF
+NCT,NCT00042341,"Leukemia, Lymphocytic, Acute",Adult,PROCESS_OF
+NCT,NCT00042341,clofarabine,Therapeutic procedure,ISA
+NCT,NCT00042341,clofarabine,Injection procedure,ISA
+NCT,NCT00042341,clofarabine,"Leukemia, Lymphocytic, Acute",TREATS
+NCT,NCT00042341,Medication Management,Therapeutic procedure,METHOD_OF
+NCT,NCT00042341,clofarabine,Patients,TREATS
+NCT,NCT00042341,clofarabine,Patients,TREATS
+NCT,NCT02228096,"Leukemia, B-Cell, Acute",Patients,PROCESS_OF
+NCT,NCT02228096,"Therapies, Investigational",Patients,TREATS
+NCT,NCT02228096,"Therapies, Investigational","Leukemia, B-Cell, Acute",TREATS(INFER)
+NCT,NCT02819804,Malignant Neoplasms,"Leukemia, Lymphocytic, Acute",COEXISTS_WITH
+NCT,NCT02819804,Therapeutic procedure,Disease,TREATS
+NCT,NCT02819804,Medication Management,Therapeutic procedure,METHOD_OF
+NCT,NCT02819804,ABL1 gene,Cells,AUGMENTS
+NCT,NCT02819804,Pharmaceutical Preparations,Pharmaceutical Preparations,compared_with
+NCT,NCT02819804,Pharmaceutical Preparations,Pharmaceutical Preparations,higher_than
+NCT,NCT02819804,Philadelphia chromosome positive,Patients,PROCESS_OF
+NCT,NCT02819804,Toxic effect,Patients,PROCESS_OF
+NCT,NCT02819804,Bone Marrow,PDCD1 gene,LOCATION_OF
+NCT,NCT02819804,peripheral blood,PDCD1 gene,LOCATION_OF
+NCT,NCT02819804,Peripheral,T-Lymphocyte,LOCATION_OF
+NCT,NCT02819804,Therapeutic procedure,Patients,TREATS
+NCT,NCT02819804,Therapeutic procedure,Patients,ADMINISTERED_TO
+NCT,NCT02819804,Hemopoietic stem cell transplant,Patients,ADMINISTERED_TO
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Patients,PROCESS_OF
+NCT,NCT01471782,Malignant Neoplasms,Blood,PART_OF
+NCT,NCT01471782,Malignant Neoplasms,Bone Marrow,PART_OF
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Malignant Neoplasms,ISA
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Blood,PART_OF(SPEC)
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Bone Marrow,PART_OF(SPEC)
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute, L1","Leukemia, Lymphocytic, Acute",ISA
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Patients,PROCESS_OF
+NCT,NCT01471782,Drug Kinetics,Patients,PROCESS_OF
+NCT,NCT01471782,Part,Cells,LOCATION_OF
+NCT,NCT01471782,T-Cell Activation,Patients,PROCESS_OF
+NCT,NCT01471782,Drug Kinetics,cohort,PROCESS_OF
+NCT,NCT01471782,Pharmacotherapy,Participant,ADMINISTERED_TO
+NCT,NCT01471782,"Leukemia, Lymphocytic, Acute",Patients,PROCESS_OF
+Section,Prognostic Factors,Lymphatic Diseases,Mediastinal mass,COEXISTS_WITH
+Section,Prognostic Factors,Serum,Immunoglobulins,LOCATION_OF
+Section,Prognostic Factors,White Blood Cell Count procedure,"Leukemia, B-Cell, Acute",DIAGNOSES
+Section,Prognostic Factors,"Leukemia, B-Cell, Acute",Patients,PROCESS_OF
+Section,Prognostic Factors,Chemotherapy-Oncologic Procedure,Girls,TREATS
+Section,Prognostic Factors,Hyperploidy,Boys,OCCURS_IN
+Section,Prognostic Factors,Mutation,Patients,AFFECTS
+Section,Prognostic Factors,hLL2 agent,Monoclonal Antibodies,ISA
+Section,Prognostic Factors,Child,Single Nucleotide Polymorphism,LOCATION_OF
+Section,Prognostic Factors,Pharmacotherapy,Therapeutic procedure,compared_with
+Section,Prognostic Factors,Patients,TAF1 gene,LOCATION_OF
+Section,Prognostic Factors,Therapeutic procedure,Racial group,TREATS
+Section,Prognostic Factors,"Receptors, Antigen",FASTK Gene,STIMULATES
+Section,Prognostic Factors,Pharmacotherapy,Patients,TREATS
+Section,Prognostic Factors,Hemopoietic stem cell transplant,Patients,TREATS
+Section,Prognostic Factors,Induction,Patients,TREATS
+Section,Prognostic Factors,Cells,Immunoglobulins,LOCATION_OF
+Section,Prognostic Factors,Cells,"Genes, T-Cell Receptor",LOCATION_OF
+Section,Prognostic Factors,Flow Cytometry,"Neoplasm, Residual",DIAGNOSES
+Section,Prognostic Factors,Obesity,Patients,PROCESS_OF
+Section,Prognostic Factors,host,Toxic effect,LOCATION_OF
+Section,Prognostic Factors,Intervention regimes,Therapeutic procedure,COEXISTS_WITH
