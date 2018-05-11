@@ -52,7 +52,7 @@ The different worksheets in this file contain the following information:
   * False (F)
 4. SemRep Comparison: summary statistics for SemRep vs. gold standard (used to calculate precision and recall)
 
-### semmeddb_combined_triples, clintrials_combined_triples.csv, textbook_combined_triples.csv
+### semmeddb_combined_triples.csv, clintrials_combined_triples.csv, textbook_combined_triples.csv
 These files contain triples automatically extracted via SemRep WebAPI on all the data
 
 ### subset_triples.csv
@@ -61,5 +61,5 @@ These files contain triples automatically extracted via SemRep WebAPI on the sub
 ### PubMedGS_Triples.csv, ClinTrialGS_Triples.csv, TextBookGS_Triples.csv
 These files contain triples manually extracted on the subset of data
 
-### IdealSemanticRelations_csv
+### IdealSemanticRelations_csv.csv
 This file contains examples of desired ontologic predications for pediatric ALL used to make an ideal semantic network
